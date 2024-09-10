@@ -11,6 +11,7 @@ matplotlib = "*"
 six = "*"
 pandas = "*"
 seaborn = "*"
+scipy = "*"
 
 [dev-packages]
 
